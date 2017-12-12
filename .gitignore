@@ -1,3 +1,10 @@
-_site/
+# Jekyll Files
+dist/
 .sass-cache/
 .jekyll-metadata
+
+# Mac OS Files
+.DS_Store
+
+# Node.js Files
+node_modules

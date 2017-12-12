@@ -1,0 +1,23 @@
+{
+  "name": "code-basement-starter-kit",
+  "version": "1.0.0",
+  "description": "Template each feature is built with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-basement/code-basement-starter-kit.git"
+  },
+  "author": "Code Basement",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-basement/code-basement-starter-kit/issues"
+  },
+  "homepage": "https://github.com/code-basement/code-basement-starter-kit#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.4.0"
+  }
+}
