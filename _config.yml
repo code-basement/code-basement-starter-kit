@@ -3,7 +3,7 @@
 
 # Where things are
 source:          ./src/site/
-destination:     ./dist/
+destination:     ./docs/
 
 # Site settings
 title: Your awesome title here
