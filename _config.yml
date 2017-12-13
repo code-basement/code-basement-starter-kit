@@ -17,7 +17,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: code-basement
 plugins:
   - jekyll-feed
 
