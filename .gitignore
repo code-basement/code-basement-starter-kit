@@ -1,9 +1,14 @@
-# Jekyll Files
-.sass-cache/
-.jekyll-metadata
-
-# Mac OS Files
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
 .DS_Store
-
-# Node.js Files
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+example/_site
+Gemfile.lock
 node_modules
+npm-debug.log*
